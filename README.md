@@ -7,7 +7,7 @@ The simulation involved solving two real-world airline analytics problems using 
 
 ## 🏆 Certificate
 
-My completion certificate is available in the `certificate/` folder.
+My completion certificate is available in the `Certificate/` folder.
 
 ---
 
@@ -27,7 +27,7 @@ Determine which passengers are eligible to access British Airways lounges at Hea
 
 ### Files
 
-* `Lounge_Eligibility_Lookup_and_Justification.xlsx` – Final lookup table with explanations
+* `Lounge Eligibility Lookup and Justification.xlsx` – Final lookup table with explanations
 * `assumptions.md` – Eligibility assumptions
 * `methodology.md` – Decision logic and approach
 
@@ -65,8 +65,8 @@ Build a machine learning model to predict which customers are most likely to com
 ### Files
 
 * `Customer_Booking_Prediction.ipynb` – Google Colab notebook
-* `Task_2_Presentation.pptx` – Final business presentation
-* `dataset/` – Model dataset
+* `Task 2_Presentation.pptx` – Final business presentation
+* `Dataset/` – Model dataset
 * `model_summary.md` – Results and recommendations
 
 ---
