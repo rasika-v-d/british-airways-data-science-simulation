@@ -91,5 +91,3 @@ This project demonstrates how data science can:
 * Increase booking conversion rates
 
 ---
-
----
